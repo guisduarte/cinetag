@@ -1,0 +1,7 @@
+.container section {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 18rem;
+  text-align: center;
+}
